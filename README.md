@@ -27,15 +27,16 @@ Updates: Active (latest release July 2025)
 💡 Philosophy  
 "Fewer utility classes, more predictive styles."  
 🔗 Usage Example  
-css
+```html
 /* Import */
 @import url("probalize.css");
-
-<!-- HTML -->
+```  
+```html
 <article class="flow"> <!-- Auto-spacing -->
   <h2>Title</h2>
   <p>Content...</p>
 </article>
+```
 🚀 Difference vs Tailwind/Bootstrap  
 
 Probalize.css	Tailwind	Bootstrap  
