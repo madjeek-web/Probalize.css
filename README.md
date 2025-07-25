@@ -145,7 +145,7 @@ Tests on 3000+ browser/OS combinations:
 Method	        Consistency Rate	Performance	    Accessibility
 <br><br>	          12%	           ⭐⭐	         ❌
 Fixed margins	      64%	           ⭐⭐⭐	       ⭐⭐
-This solution	      99.7%	         ⭐⭐⭐⭐      ⭐⭐⭐⭐
+This solution	      99.7%	         ⭐⭐⭐⭐         ⭐⭐⭐⭐
 Source: WebDev Benchmark 2024
 
 ⚠️ Final Mistakes to Avoid
