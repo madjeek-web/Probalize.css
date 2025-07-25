@@ -1,3 +1,5 @@
+![globalize-css-icon](https://raw.githubusercontent.com/madjeek-web/Globalize.css/main/globalize-css-icon.png)
+
 # Probalize.css
 CSS micro-framework for consistent and accessible spacings
 
