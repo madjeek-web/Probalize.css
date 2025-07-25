@@ -1,7 +1,12 @@
 ![Probalize-css-icon](https://github.com/madjeek-web/Probalize.css/blob/main/Probalize-css-jpeg.jpg)
 
 # Probalize.css
-CSS micro-framework for consistent and accessible spacings
+CSS micro-framework for consistent and accessible spacings  
+
+Download Probalize.css - Latest project version as of July 26, 2025
+(Official release | MIT License | 5KB minified)  
+📥 Direct Download :  
+[Probalize-css-Minimized.css](https://github.com/fc84/probalize.css/releases/latest) 
 
 Name of this project : Probalize.css       
 Creator: 2025 (c) Fabien Conéjéro / FC84  
