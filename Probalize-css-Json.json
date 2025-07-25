@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "name": "Probalize.css",
+      "description": "Micro-framework CSS open source designed to automate consistent spacing and solve common layout issues without HTML clutter.",
+      "url": "https://github.com/yourusername/probalize.css",
+      "applicationCategory": "CSSFramework",
+      "operatingSystem": "Web",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "creator": {
+        "@type": "Person",
+        "name": "Fabien Conéjéro",
+        "alternateName": "FC84"
+      },
+      "dateCreated": "2025-01-01",
+      "dateModified": "2025-07-01",
+      "license": "https://opensource.org/licenses/MIT",
+      "keywords": "CSS, Framework, Spacing, DesignSystem, Accessibility, Performance, OpenSource, Responsive, FrontEnd, UI",
+      "featureList": [
+        "Rem-based spacing scale",
+        "Flow issues fixes (flow-root, gap)",
+        "Smart reset (images, links, typography)",
+        "Built-in RTL and responsive compatibility"
+      ],
+      "softwareVersion": "1.0"
+    },
+    {
+      "@type": "ComparisonTable",
+      "about": "Framework comparison",
+      "name": "Probalize.css vs Tailwind vs Bootstrap",
+      "headline": "Framework Differences",
+      "table": [
+        {
+          "name": "Probalize.css",
+          "size": "5KB",
+          "approach": "Systemic",
+          "customization": "CSS Variables",
+          "bestFor": "Quick POCs, showcase sites, lightweight applications"
+        },
+        {
+          "name": "Tailwind",
+          "size": "300KB+",
+          "approach": "Utilities",
+          "customization": "JS Config",
+          "bestFor": "Large-scale applications"
+        },
+        {
+          "name": "Bootstrap",
+          "size": "200KB+",
+          "approach": "Components",
+          "customization": "SASS",
+          "bestFor": "Rapid prototyping"
+        }
+      ]
+    },
+    {
+      "@type": "Code",
+      "name": "Usage Example",
+      "programmingLanguage": "CSS",
+      "codeRepository": "https://github.com/yourusername/probalize.css",
+      "codeSampleType": "Full",
+      "text": "/* Import */\n@import url(\"probalize.css\");\n\n<!-- HTML -->\n<article class=\"flow\">\n  <h2>Title</h2>\n  <p>Content...</p>\n</article>"
+    },
+    {
+      "@type": "TechArticle",
+      "name": "Professional Spacing Solution",
+      "headline": "Best Professional Solution for Paragraph Spacing",
+      "description": "Production-tested method combining semantic HTML and modern CSS",
+      "text": "The system uses CSS variables and logical properties for consistent spacing across all browsers and devices.",
+      "proficiencyLevel": "Expert",
+      "dependencies": "CSS3",
+      "code": {
+        "@type": "SoftwareSourceCode",
+        "programmingLanguage": "CSS",
+        "text": ":root {\n  --line-height: 1.5;\n  --space-unit: calc(1rem * var(--line-height));\n}\n\np + p {\n  margin-top: calc(var(--space-unit) * 0.75);\n}"
+      }
+    }
+  ]
+}
