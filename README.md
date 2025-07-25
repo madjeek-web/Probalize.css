@@ -9,7 +9,7 @@ MIT Project
 
 📌 Probalize.css Project - Executive Summary  
 🎯 Purpose & Role  
-Probalize.css is an open-source CSS micro-framework designed to automate consistent spacing and solve common layout issues (flow, margins, grids) without cluttering HTML.
+Probalize.css is an open-source CSS micro-framework designed to automate consistent spacing and solve common layout issues (flow, margins, grids) without cluttering HTML.  
 ✨ Key Features  
 Spacing scale system based on rem  
 Flow issue fixes (flow-root, gap)  
