@@ -1,4 +1,4 @@
-![globalize-css-icon](https://raw.githubusercontent.com/madjeek-web/Globalize.css/main/globalize-css-icon.png)
+![globalize-css-icon]([https://raw.githubusercontent.com/madjeek-web/Globalize.css/main/globalize-css-icon.png](https://github.com/madjeek-web/Probalize.css/blob/main/Probalize-css-jpeg.jpg))
 
 # Probalize.css
 CSS micro-framework for consistent and accessible spacings
