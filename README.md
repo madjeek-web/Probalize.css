@@ -80,14 +80,14 @@ ___
 You can combine Probalize css with : Globalize css ( https://github.com/madjeek-web/Globalize.css ) and with : normalize.css - in a single css file. https://github.com/necolas/normalize.css : MIT License Copyright (c) Nicolas Gallagher and Jonathan Neal
 
 ___  
-
+```css
 /* Best practices + HTML mistakes to avoid */
 
 
-/* *****************************************************************************************************
+/* ********
     C O D E    Z O N E :
 🌟 The Professional Best Practice for Paragraph Spacing (Production-Tested Solution) 🌟
-****************************************************************************************************** */
+******** */
 /* Step 1: Targeted normalization (essential) */
   html {
     box-sizing: border-box;
@@ -120,7 +120,8 @@ ___
   article > p:first-child {
     margin-top: 0;
   }
-
+```
+```html
 /* Semantic HTML structure:
 <article>
   <p>First paragraph with relevant content.</p>
@@ -180,8 +181,8 @@ p + p {
   margin-top: var(--space-sm);
 }
 This solution has been successfully deployed on projects with 10M+ monthly visitors (100% spacing issues resolved). */
-/* *****************************************************************************************************
+/* ********************************************
     E N D    O F    C O D E    Z O N E :
 🌟 The Professional Best Practice for Paragraph Spacing (Production-Tested Solution) 🌟
-****************************************************************************************************** */
-
+********************************************** */
+```
