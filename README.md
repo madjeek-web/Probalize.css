@@ -598,7 +598,7 @@ By fixing these common errors, you'll achieve sites that are:
 These practices are now standard among W3C-certified professional agencies.
 
 /* ------------------------------------------------------------------------------------------- */
-/* O T H E R 2 */
+/* O T H E R   2 */
 /* ------------------------------------------------------------------------------------------- */
 /*🚫 Error: Using <div> for spacing
 
@@ -684,7 +684,8 @@ Complete example:
 
 html
 
-<style> :root { --space-md: 1.5rem; --border-color: #eee; } .article { display: flow-root; /* Contains floats */ } .article > * + * { margin-block-start: var(--space-md); } </style><article class="article"> <h2>Title</h2> <p>Content...</p> <!-- No empty div needed --> </article>
+<style> :root { --space-md: 1.5rem; --border-color: #eee; } .article { display: flow-root; /* Contains floats */ } .article > * + * { margin-block-start: var(--space-md); } </style>
+<article class="article"> <h2>Title</h2> <p>Content...</p> <!-- No empty div needed --> </article>
 📌 Golden rules
 Never use HTML elements for pure styling
 Prefer CSS logical properties (margin-block/inline)
