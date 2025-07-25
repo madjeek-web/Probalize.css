@@ -1,13 +1,10 @@
 # Probalize.css
 CSS micro-framework for consistent and accessible spacings
 
-/************************************************/
-/*   Name of this project: Probalize.css       */
-/*   Creator: 2025 (c) Fabien Conéjéro / FC84  */
-/*   MIT Project                                */
-/************************************************/
+Name of this project: Probalize.css       
+Creator: 2025 (c) Fabien Conéjéro / FC84  
+MIT Project
 
-/***********************************************
 📌 Probalize.css Project - Executive Summary
 🎯 Purpose & Role
 Probalize.css is an open-source CSS micro-framework designed to automate consistent spacing and solve common layout issues (flow, margins, grids) without cluttering HTML.
@@ -50,13 +47,11 @@ Ideal for quick POCs, showcase sites, and lightweight applications.
 TAGS:
 #CSS #Framework #Spacing #DesignSystem #Accessibility
 #Performance #OpenSource #Responsive #FrontEnd #UI
-************************************************/
 
-/* ============================================= */
-/* MIT LICENSE                                  */
-/* ============================================= */
 
-/*
+
+MIT LICENSE
+
 Copyright (c) 2025 Fabien Conéjéro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -76,4 +71,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-*/
