@@ -21,12 +21,12 @@ Design teams seeking visual consistency
 Lean projects (no need for Bootstrap/Tailwind)  
 🛠 By Whom?  
 Fabien Conéjéro / FC84  
-📅 When?
-Version 1.0: 2025
-Updates: Active (latest release July 2025)
-💡 Philosophy
-"Fewer utility classes, more predictive styles."
-🔗 Usage Example
+📅 When?  
+Version 1.0: 2025  
+Updates: Active (latest release July 2025)  
+💡 Philosophy  
+"Fewer utility classes, more predictive styles."  
+🔗 Usage Example  
 css
 /* Import */
 @import url("probalize.css");
@@ -36,18 +36,18 @@ css
   <h2>Title</h2>
   <p>Content...</p>
 </article>
-🚀 Difference vs Tailwind/Bootstrap
+🚀 Difference vs Tailwind/Bootstrap  
 
-Probalize.css	Tailwind	Bootstrap
-Size	5KB	300KB+	200KB+
-Approach	Systemic	Utilities	Components
-Customization	CSS Variables	JS Config	SASS
-Ideal for quick POCs, showcase sites, and lightweight applications.
+Probalize.css	Tailwind	Bootstrap  
+Size	5KB	300KB+	200KB+  
+Approach	Systemic	Utilities	Components  
+Customization	CSS Variables	JS Config	SASS  
+Ideal for quick POCs, showcase sites, and lightweight applications.  
 
-(Project hosted on GitHub, MIT license.)
+(Project hosted on GitHub, MIT license.)  
 
-TAGS:
-#CSS #Framework #Spacing #DesignSystem #Accessibility
+TAGS:  
+#CSS #Framework #Spacing #DesignSystem #Accessibility  
 #Performance #OpenSource #Responsive #FrontEnd #UI
 
 
