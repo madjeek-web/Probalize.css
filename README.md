@@ -77,5 +77,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.                
 ___  
 
-You can combine Probalize css with Globalize css and with : normalize.css - in a single css file. https://github.com/necolas/normalize.css : MIT License Copyright (c) Nicolas Gallagher and Jonathan Neal
+You can combine Probalize css with : Globalize css ( https://github.com/madjeek-web/Globalize.css ) and with : normalize.css - in a single css file. https://github.com/necolas/normalize.css : MIT License Copyright (c) Nicolas Gallagher and Jonathan Neal
 
