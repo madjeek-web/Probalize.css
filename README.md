@@ -1,7 +1,7 @@
 # Probalize.css
 CSS micro-framework for consistent and accessible spacings
 
-Name of this project: Probalize.css       
+Name of this project : Probalize.css       
 Creator: 2025 (c) Fabien Conéjéro / FC84  
 MIT Project
 
