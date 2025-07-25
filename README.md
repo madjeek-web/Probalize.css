@@ -8,22 +8,22 @@ Creator: 2025 (c) Fabien Conéjéro / FC84
 MIT Project
 
 📌 Probalize.css Project - Executive Summary
-#🎯 Purpose & Role
+🎯 Purpose & Role
 Probalize.css is an open-source CSS micro-framework designed to automate consistent spacing and solve common layout issues (flow, margins, grids) without cluttering HTML.
-#✨ Key Features
-#Spacing scale system based on rem
-#Flow issue fixes (flow-root, gap)
-#Smart reset (images, links, typography)
-#Built-in RTL and responsive compatibility
-#👥 For Whom?
-#Front-end developers wanting a ready-to-use system
-#Design teams seeking visual consistency
-#Lean projects (no need for Bootstrap/Tailwind)
-#🛠 By Whom?
-#Fabien Conéjéro / FC84
-#📅 When?
-#Version 1.0: 2025
-#Updates: Active (latest release July 2025)
+✨ Key Features
+Spacing scale system based on rem
+Flow issue fixes (flow-root, gap)
+Smart reset (images, links, typography)
+Built-in RTL and responsive compatibility
+👥 For Whom?
+Front-end developers wanting a ready-to-use system
+Design teams seeking visual consistency
+Lean projects (no need for Bootstrap/Tailwind)
+🛠 By Whom?
+Fabien Conéjéro / FC84
+📅 When?
+Version 1.0: 2025
+Updates: Active (latest release July 2025)
 💡 Philosophy
 "Fewer utility classes, more predictive styles."
 🔗 Usage Example
