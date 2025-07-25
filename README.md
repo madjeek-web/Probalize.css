@@ -689,7 +689,9 @@ Complete example:
 
 html
 
-<style> :root { --space-md: 1.5rem; --border-color: #eee; } .article { display: flow-root; /* Contains floats */ } .article > * + * { margin-block-start: var(--space-md); } </style>
+<style> :root { --space-md: 1.5rem; --border-color: #eee; }
+.article { display: flow-root; /* Contains floats */ }
+.article > * + * { margin-block-start: var(--space-md); } </style>
 <article class="article"> <h2>Title</h2> <p>Content...</p> <!-- No empty div needed --> </article>
 📌 Golden rules
 Never use HTML elements for pure styling
