@@ -13,7 +13,7 @@ Download Probalize.css - Latest project version as of July 26, 2025
 npm install probalize.css
 # or  
 yarn add probalize.css
-
+```
 Name of this project : Probalize.css       
 Creator: 2025 (c) Fabien Conéjéro / FC84  
 MIT Project
