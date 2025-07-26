@@ -8,6 +8,12 @@ Download Probalize.css - Latest project version as of July 26, 2025
 📥 Direct Download :  
 [Probalize-css-Minimized.css](https://github.com/madjeek-web/Probalize.css/blob/main/dist/Probalize-css-Minimized.css)  
 
+📦 Package Managers:  
+```bash
+npm install probalize.css
+# or  
+yarn add probalize.css
+
 Name of this project : Probalize.css       
 Creator: 2025 (c) Fabien Conéjéro / FC84  
 MIT Project
